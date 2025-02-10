@@ -117,12 +117,12 @@ CONFIG:
       settings:
         CONFIG: 3dr_ctrl-zero-h7-oem-revg_default
     agamrobotics_can-gps-v1_default:
-      short: agam_can-gps_default
+      short: agamrobotics_can-gps-v1_default
       buildType: MinSizeRel
       settings:
         CONFIG: agamrobotics_can-gps-v1_default
     agamrobotics_can-gps-v1_canbootloader:
-      short: agam_can-gps_canbootloader
+      short: agamrobotics_can-gps-v1_canbootloader
       buildType: MinSizeRel
       settings:
         CONFIG: agamrobotics_can-gps-v1_canbootloader
