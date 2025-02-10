@@ -116,6 +116,16 @@ CONFIG:
       buildType: MinSizeRel
       settings:
         CONFIG: 3dr_ctrl-zero-h7-oem-revg_default
+    agamrobotics_can-gps-v1_default:
+      short: agam_can-gps_default
+      buildType: MinSizeRel
+      settings:
+        CONFIG: agamrobotics_can-gps-v1_default
+    agamrobotics_can-gps-v1_canbootloader:
+      short: agam_can-gps_canbootloader
+      buildType: MinSizeRel
+      settings:
+        CONFIG: agamrobotics_can-gps-v1_canbootloader
     airmind_mindpx-v2_default:
       short: airmind_mindpx-v2
       buildType: MinSizeRel
