@@ -7,8 +7,8 @@ add_definitions(
 )
 
 set(uavcanblid_hw_version_major 0)
-set(uavcanblid_hw_version_minor 100)
-set(uavcanblid_name "\"org.agamrobotics.can-gps-v1\"")
+set(uavcanblid_hw_version_minor 81)
+set(uavcanblid_name "\"org.agamrobotics.can-gps\"")
 
 add_definitions(
 	-DHW_UAVCAN_NAME=${uavcanblid_name}

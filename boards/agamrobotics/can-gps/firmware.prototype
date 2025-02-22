@@ -1,7 +1,7 @@
 {
-    "board_id": 100,
+    "board_id": 83,
     "magic": "PX4FWv1",
-    "description": "Firmware for the Agam CAN gps board",
+    "description": "Firmware for the AgamRobotics gps board",
     "image": "",
     "build_time": 0,
     "summary": "AgamGPS",
